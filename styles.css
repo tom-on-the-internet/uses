@@ -1,0 +1,27 @@
+html {
+  background-color: rgb(51, 51, 51);
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font-size: calc(0.75em + 1vmin);
+}
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+a {
+  color: rgb(0, 255, 255);
+}
+
+time {
+  font-style: italic;
+}
+
+p {
+  line-height: 170%;
+}
+
+details > summary {
+  cursor: pointer;
+}
+
